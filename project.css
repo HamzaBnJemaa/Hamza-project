@@ -1,0 +1,77 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWV0YWwlMjBjb25jZXJ0fGVufDB8fDB8fHww&w=1000&q=80");
+    size-adjust: cover;
+  }
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+      font-size: 40px;
+      color: beige;
+      margin-left: 200px;
+    margin-right: auto;
+  }
+  p{
+    font-family: Arial, Helvetica, sans-serif;
+      font-size: 27px;
+      color: beige;
+      margin-left: 230px;
+  }
+  #imageElement{
+    width: 210px;
+    padding: 5px;
+    border-radius: 17%;
+    margin-left: 10px;
+  margin-top: -15px;
+  }
+  
+  #myrath, #megadeth, #gnr, #metallica, #queen, #soad, #lp, #slipknot, #lb, #eva{
+    font-family: Arial, Helvetica, sans-serif;
+      font-size: 14px;
+      color: beige;
+      margin-left: 750px;
+    margin-right: 100px;
+    margin-top: -5px;
+  }
+  label{
+    font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      color: beige;
+      margin-left: 50px;
+      margin-top: -070px;
+      width: 130px;
+  }
+#guessField {
+    outline: none;
+    color: #1e1e1e;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1.7px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border: 2px dashed #484848;
+    border-radius: 10px;
+    background-color: #8b8b8b;
+    box-shadow: 0 0 0 3px #949494,rgba(0, 0, 0, 0.5);
+}
+#submitguess{
+    outline: none;
+    color: #1e1e1e;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1.7px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border: 2px dashed #484848;
+    border-radius: 10px;
+    background-color: #8b8b8b;
+    box-shadow: 0 0 0 3px #949494,rgba(0, 0, 0, 0.5);
+}
+button{
+    outline: none;
+    color: #1e1e1e;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    border: 2px dashed #484848;
+    border-radius: 15px;
+    background-color: #8b8b8b;
+    box-shadow: 0 0 0 4px #949494,rgba(0, 0, 0, 0.5);
+}
